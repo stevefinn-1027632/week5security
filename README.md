@@ -34,4 +34,4 @@ Het is gebaseerd op **AES-encryptie in CBC-modus met een 128-bits sleutel** en m
 - **Encryptie**: Voer `e` in, geef de tekst, en ontvang de versleutelde tekst.
 - **Decryptie**: Voer `d` in, geef de versleutelde tekst, en ontvang de ontsleutelde tekst.
 - De geheime sleutel wordt automatisch gegenereerd en opgeslagen in `secret.key`.
-- De app sluit automatisch na het encrypten en/of decrypten, start de app nogmaals te gebruiken.
+- De app sluit automatisch na het encrypten en/of decrypten, start de app opnieuw om het nogmaals te gebruiken.
